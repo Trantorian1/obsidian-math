@@ -15,3 +15,7 @@ proof:
 	
 	$\underline{this \; is \; a \; contradiction}, \; as \; we \; are \; given \; the \; condition \; n^2 \equiv 0 \mod 3$
 	$\underline{therefore} \; P(n) \; is \; true, \; \forall n \in \mathbb R, \; s.t n^2 \equiv 0 \mod 3$
+	
+
+---
+*related:* [[Proof Basics]], [[Direct Proof]], [[Proof by Contradiction]], [[Proof by Contraposition]], [[Proof by Case]], [[Disproof by Counterexample]]

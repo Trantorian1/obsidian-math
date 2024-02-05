@@ -4,3 +4,6 @@
 $$P(x) := \; "every \; positive \; integer \; is \; equal \; to \; the \; sum \; of \; two \; integer \; squares"$$
 *disproof:*
 	$3 \; is \; not \; equal \; to \; the \; sum \; of \; two\; integer \; squares$
+
+---
+*related:* [[Proof Basics]], [[Direct Proof]], [[Proof by Contradiction]], [[Proof by Contraposition]], [[Proof by Case]]

@@ -67,3 +67,6 @@ $S_h \subseteq S_m \land S_w \subseteq S_m \centernot\implies S_h \subseteq S_w$
 	*"The solution to this problem is rational"*
 
 > 📝 **Note:** here there is an ambiguity between the English meaning of rational (reasonable) and it's mathematical meaning ($x \in \mathbb R$).
+
+---
+*related:* [[Proof Basics]] [[Rules of Inference]]

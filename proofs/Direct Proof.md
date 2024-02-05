@@ -14,3 +14,6 @@ proof:
 > ℹ️ Whilst this proof could have been made much simple by a continuous chaining of mathematical implication $\implies$, that would also have made it much less readable. In practice, it is a good habit to use *words of inference*, such as *then*, *however*, *therefore*... to make mathematical proofs more readable. 
 > 
 > Also try and break down your proof into multiple sub-steps, as it will not only help with improving readability but might also help you with finding solutions to harder proofs.
+
+---
+*related:* [[Proof Basics]], [[Proof by Contradiction]], [[Proof by Contraposition]], [[Proof by Case]], [[Disproof by Counterexample]]
