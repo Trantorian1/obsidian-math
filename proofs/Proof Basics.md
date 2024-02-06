@@ -38,4 +38,4 @@ $$if\; P \implies Q \; then \; \overline Q \implies \overline P$$
 $$if \; P \iff Q \; then \; \overline Q \implies \overline P \; and \; \overline P \implies \overline Q, \; s.t \; \overline Q \iff \overline P$$
 
 ---
-*related:* [[Rules of Inference]], [[Fallacies]], [[Direct Proof]], [[Proof by Contradiction]], [[Proof by Contraposition]], [[Proof by Case]], [[Disproof by Counterexample]]
+*related:* [[Proofs in natural language]], [[Rules of Inference]], [[Fallacies]], [[Direct Proof]], [[Proof by Contradiction]], [[Proof by Contraposition]], [[Proof by Case]], [[Disproof by Counterexample]]
